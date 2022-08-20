@@ -163,11 +163,11 @@ def hash_colors(colors):
 width = 5
 height = 5
 
-file = "toe_brian.png"
+file = "" #insert name of image to use for base
 
-path = r'C:\Users\jmlek\Desktop\Code_Stuff\images'
-directory = r'C:\Users\jmlek\Desktop\Code_Stuff\source_images'
-base_directory = r'C:\Users\jmlek\Desktop\Code_Stuff'
+path = r'' #insert images folder loaction
+directory = r'' #insert where to put edited images
+base_directory = r'' #insert directory here
 
 image = import_image(file)
 
