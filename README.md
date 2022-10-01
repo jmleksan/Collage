@@ -11,5 +11,7 @@ And convert into a collage of provided source images, such as all Pokemon:
 Caching with a json file is used to decrease processing time after first source image editing process.
 
 Future improvements: 
-  Make it easier to scale image to desired size.
-  Decrease time required to generate image for larger images.
+
+    Make it easier to scale image to desired size.
+  
+    Decrease time required to generate image for larger images.
