@@ -1,5 +1,5 @@
 # Collage
-The Collage python program enables one to convert a base image such as this one of my dog Muggs as George Washington:
+The Collage python program enables one to convert a base image such as this one of my dog, Muggs, as George Washington:
 
 
 ![muggs](https://user-images.githubusercontent.com/63938553/193418244-2fb169a5-021b-4366-bbeb-329acbc3ef73.png)
